@@ -1,0 +1,15 @@
+.btn-div{
+    display: flex;
+    flex-direction: column;
+    width: 30rem;
+    height: 20rem;
+    margin: auto;
+    margin-top: 15rem;
+    justify-content: center;
+    border-radius: 1rem;
+}
+.task{
+    width: 10rem;
+    margin-top: 1rem;
+    
+}

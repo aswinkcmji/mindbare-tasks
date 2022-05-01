@@ -1,0 +1,29 @@
+.admin-container,.outlet{
+    display: flex;
+    justify-content: space-around;
+
+}
+.outlet{
+    display: flex;
+    justify-content: center;
+    margin-top: 3rem;
+    padding: 1rem;
+    
+}
+.admin-btn{
+   margin-top: 1rem;
+    width: 9.5rem;
+}
+.credentialsupload{
+    display: flex;
+    justify-content: center;
+    flex-direction: column;
+}
+.credentialsupload input{
+    width: 20rem;
+    margin: auto;
+    margin-top: 1rem;
+}
+.credentialsupload .btn-info{
+    width: 10rem;
+}

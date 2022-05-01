@@ -1,0 +1,21 @@
+.task1-form{
+    display: flex;
+    width: 30rem;
+    height: 20rem;
+    margin: auto;
+    margin-top: 2rem;
+    justify-content: center;
+    align-items: center;
+}
+.task1-form form{
+    display: flex;
+    flex-direction: column;
+}
+.task1-btn{
+    margin: auto;
+    width: 10rem;
+}
+input{
+    outline: none;
+    box-shadow: 1px 1px 10px rgb(0, 0, 0,.5);
+}

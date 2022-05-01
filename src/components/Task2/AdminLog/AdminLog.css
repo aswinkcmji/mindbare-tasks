@@ -1,0 +1,11 @@
+.logform-form {
+    display: flex;
+    flex-direction: column;
+    
+}
+.logform-form input{
+    margin-top: .5rem;
+    outline: none;
+    height: 2.5rem;
+    box-shadow: none;
+}

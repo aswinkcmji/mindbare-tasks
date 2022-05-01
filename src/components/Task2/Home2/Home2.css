@@ -1,0 +1,8 @@
+.icons{
+    width: 95vw;
+}
+@media (min-width:768px) {
+    .icons{
+        width: 75vh;
+    }
+}
